@@ -5,6 +5,7 @@ html, body{
 body {
     font-family: Arial, sans-serif;
 }
+
 /* Buttons */
 .btn-azul {
     background-color: #001f3f;
@@ -42,6 +43,7 @@ body {
     padding: 60px 0;
     text-align: center;
     position: relative;
+    height: 60%;
 }
 .hero::before{ /*IMAGEM*/
     content: '';
